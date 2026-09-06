@@ -1,9 +1,9 @@
-import { BrowserRouter } from 'react-router-dom';
+﻿import { BrowserRouter } from 'react-router-dom';
 import { ThemeProvider } from 'styled-components';
 import { GlobalStyle } from './styles/globalStyle';
 import Navbar from './components/layout/Navbar';
 import Footer from './components/layout/Footer';
-import Router from './Router';
+import Router from './router';
 
 import { AuthProvider } from './context/AuthContext';
 import { ColorModeProvider, useColorMode } from './context/ColorModeContext';
@@ -33,3 +33,4 @@ export default function App() {
 		</BrowserRouter>
 	);
 }
+
