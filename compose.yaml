@@ -1,4 +1,4 @@
-name: eventlife
+﻿name: eventlife
 
 services:
   db:
@@ -23,7 +23,7 @@ services:
   backend:
     container_name: eventlife-backend
     build:
-      context: ./EventLifeProject
+      context: ./backend
       dockerfile: Dockerfile
     restart: unless-stopped
     env_file:
@@ -49,3 +49,4 @@ networks:
   eventlife-private:
     driver: bridge
     internal: true
+
