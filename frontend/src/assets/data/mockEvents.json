@@ -1,0 +1,74 @@
+[
+  {
+    "id": "m1",
+    "title": "Mock Party 1",
+    "description": "This is a mock event.",
+    "date": "2025-10-05T10:00:00.000Z",
+    "location": "Mock City",
+    "maxParticipants": 20,
+    "participants": [],
+    "image": "/images/img1.jpg",
+    "eventType": "PUBLIC_PARTY",
+    "ownerId": null
+  },
+  {
+    "id": "m2",
+    "title": "Mock Party 2",
+    "description": "This is another mock event.",
+    "date": "2025-10-05T12:00:00.000Z",
+    "location": "Mock Town",
+    "maxParticipants": 15,
+    "participants": [],
+    "image": "/images/img2.jpg",
+    "eventType": "PUBLIC_PARTY",
+    "ownerId": null
+  },
+  {
+    "id": "m3",
+    "title": "Mock Party 3",
+    "description": "Yet another mock event.",
+    "date": "2025-10-05T14:00:00.000Z",
+    "location": "Mock Village",
+    "maxParticipants": 30,
+    "participants": [],
+    "image": "/images/img3.jpg",
+    "eventType": "PUBLIC_PARTY",
+    "ownerId": null
+  },
+  {
+    "id": "m4",
+    "title": "Mock Party 4",
+    "description": "Fun mock event.",
+    "date": "2025-10-05T16:00:00.000Z",
+    "location": "Mock Island",
+    "maxParticipants": 10,
+    "participants": [],
+    "image": "/images/img4.jpg",
+    "eventType": "PUBLIC_PARTY",
+    "ownerId": null
+  },
+  {
+    "id": "m5",
+    "title": "Mock Party 5",
+    "description": "Another fun mock event.",
+    "date": "2025-10-05T18:00:00.000Z",
+    "location": "Mock Beach",
+    "maxParticipants": 25,
+    "participants": [],
+    "image": "/images/img5.jpg",
+    "eventType": "PUBLIC_PARTY",
+    "ownerId": null
+  },
+  {
+    "id": "m6",
+    "title": "Mock Party 6",
+    "description": "Final mock event.",
+    "date": "2025-10-05T20:00:00.000Z",
+    "location": "Mock Mountain",
+    "maxParticipants": 12,
+    "participants": [],
+    "image": "/images/img6.jpg",
+    "eventType": "PUBLIC_PARTY",
+    "ownerId": null
+  }
+]

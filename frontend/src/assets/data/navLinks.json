@@ -1,0 +1,7 @@
+[
+	{ "to": "/", "label": "Home" },
+	{ "to": "/events", "label": "Events" },
+	{ "to": "/create", "label": "Create", "authRequired": true },
+	{ "to": "/dashboard", "label": "Dashboard", "authRequired": true },
+	{ "to": "/auth", "label": "Login", "guestOnly": true }
+]

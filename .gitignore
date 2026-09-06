@@ -1,0 +1,26 @@
+# Environment files
+.env
+.env.*
+!.env.example
+!**/.env.example
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Backend
+backend/target/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+
+# Old database material - never include in monorepo
+/DB info/
+/backup_final.sql
